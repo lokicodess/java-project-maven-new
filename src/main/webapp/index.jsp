@@ -178,7 +178,7 @@
             <div class="card">
                 <img src="./assets/img/poster 12.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Dark Phoenix</h2>
+                    <h2 class="name">Dark Phoenixx</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
